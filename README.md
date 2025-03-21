@@ -9,6 +9,7 @@ git clone https://huggingface.co/KookyGhost/txt2sql-LoRA-adapter-t5-small
 
 # Download LoRA + Base Model File 
 git clone https://huggingface.co/KookyGhost/txt2sql-LoRA-merged-t5-small
+
 This is a merged model that can be used directly swithout the need to manually apply the adapter.
 
 # Reference
