@@ -1,5 +1,5 @@
 # Text2sql-LoRA-T5-small
-The Python notebooks document step by step process of finetuning t5-small model for text2sql generation using a LoRA adapter.
+The Jupyter notebooks document step by step process of finetuning t5-small model for text2sql generation using a LoRA adapter.
 
 # Model Performance
 Rogue: 0.928
