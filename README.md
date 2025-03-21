@@ -1,8 +1,11 @@
 # Text2sql-LoRA-T5-small
-Finetune a t5-small model for text2sql generation using LoRA
+Finetuning t5-small model for text2sql generation using a LoRA adapter.
 
 # Model Performance
 Rogue: 0.928
+
+# LoRA Adapter File
+KookyGhost/txt2sql-LoRA-adapter-t5-small
 
 # Reference
 Inspired by https://gist.github.com/mkeywood1/9e8411aef44cf18009aa3e4776501c08, who was inspired by https://huggingface.co/cssupport/t5-small-awesome-text-to-sql
