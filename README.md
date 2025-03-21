@@ -7,6 +7,9 @@ Rogue: 0.928
 # Download LoRA Adapter File
 git clone https://huggingface.co/KookyGhost/txt2sql-LoRA-adapter-t5-small
 
+# Download LoRA + Base Model File (without the need to manually apply the adapter)
+git clone https://huggingface.co/KookyGhost/txt2sql-LoRA-merged-t5-small
+
 # Reference
 Inspired by https://gist.github.com/mkeywood1/9e8411aef44cf18009aa3e4776501c08, who was inspired by https://huggingface.co/cssupport/t5-small-awesome-text-to-sql, where the former is a recreation of the latter, by fully finetuning the base t5-small model.
 
